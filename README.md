@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gettingMean-2
 # Getting MEAN Second Edition application code
 
@@ -66,3 +67,7 @@ To remove the containers when complete
 
 `make destroy`
 
+=======
+# loc8r
+MEAN Stack Project
+>>>>>>> 200ab3ed8f13a2b2024d06efd77c7edb8366ba09
